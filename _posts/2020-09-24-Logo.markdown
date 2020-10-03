@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Logo da POLI"
+date:   2020-09-24 19:38:15 -0500
+categories: Universidade
+author: Gabriel
+description: Logo da Escola Politécnica.
+---
+Este é o logo da Escola Politécnica da USP.
+
+![Logo](https://www.poli.usp.br/wp-content/uploads/2020/08/Logo_Escola-Polite%CC%81cnica-Minerva-sem-fundo.png)
+

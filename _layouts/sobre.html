@@ -1,0 +1,46 @@
+<! DOCTYPE html >
+<html lang ="en">
+
+<head>
+	<meta charset ="UTF -8">
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0
+	">
+	<title>Sobre</title>
+	<link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
+	<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head >
+
+<body>
+	<header id="cabecalho-sobre">
+		<h1><a href="{{ '/index' | relative_url }}">Blog Hello!</a></</h1>
+	</header>
+
+	<input type="checkbox" id="bt_menu">
+	<label for="bt_menu">&#9776;</label>
+	
+	<nav class="menu">
+	  <ul>
+		<li><a href="{{ '/index' | relative_url }}">Home</a></li>
+		<li><a href="{{ '/sobre' | relative_url }}">Sobre</a></li>
+		<li><a href="{{ '/categorias' | relative_url }}">Categorias</a>
+			<ul>
+				<li><a href="{{ '/categorias/descontracao/' | relative_url }}">Descontração</a></li>
+				<li><a href="{{ '/categorias/universidade/' | relative_url }}">Universidade</a></li>
+				<li><a href="{{ '/categorias/piadas/' | relative_url }}">Piadas</a></li>
+			</ul>
+		<li><a href="{{ '/contato' | relative_url }}">Contato</a></li>
+		</li>
+	  </ul>
+	</nav>
+	<main>
+        <section class="sobre">
+            <h1>Sobre</h1>
+			Este site foi feito para a matéria PMR3304 - Sistemas de Informação.
+			Espero que gostem.
+        </section>
+        <aside id="sidebar">
+            <img id="boneco" src ="{{ '/assets/images/favicon.ico' | relative_url }}">
+        </aside>
+    </main>
+</body>
+</html>

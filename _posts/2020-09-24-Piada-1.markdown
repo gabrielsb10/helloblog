@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Piada 1"
+date:   2020-09-24 21:13:56 -0500
+categories: Piadas
+author: Gabriel
+description: Essa piada é boa.
+---
+
+Dois caçadores estão em um bosque, quando um deles desmaia.
+<br>
+Ele parece não estar respirando e seus olhos estão vidrados. 
+<br>
+O outro caçador pega o telefone e liga para a emergência:
+<br>
+"- Meu amigo está morto! O que faço?"
+<br>
+O atendente responde:
+<br>
+"- Calma, eu te ajudo. Primeiro, temos que ter certeza de que ele está morto."
+<br>
+Há um silêncio, e então um tiro é ouvido.
+<br>
+De volta ao telefone, o cara diz:
+<br>
+"- Pronto, e agora?"
+
+<img src="{{ '/assets/images/sorriso.jpg' | relative_url }}" alt="sorriso" width="600" height="500"/>
+
